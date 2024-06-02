@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinsharma132&label=Profile%20views&color=0e75b6&style=flat" alt="jatinsharma132" /> </p>
 
 
-
 - 🌱 I’m currently learning **MySql , jupyter notebook**
 
 - 📫 How to reach me **jatinchirag1234@gmail.com**
@@ -15,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/trade_withjatin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trade_withjatin" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/jatinsharma007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatinsharma007" height="30" width="40" /></a>
 <a href="https://kaggle.com/jatin4507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jatin4507" height="30" width="40" /></a>
 <a href="https://instagram.com/aka_jatin_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aka_jatin_sharma" height="30" width="40" /></a>
