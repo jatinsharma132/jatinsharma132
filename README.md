@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinsharma132&label=Profile%20views&color=0e75b6&style=flat" alt="jatinsharma132" /> </p>
 
-<p align="left"> <a href="https://twitter.com/trade_withjatin" target="blank"><img src="https://img.shields.io/twitter/follow/trade_withjatin?logo=twitter&style=for-the-badge" alt="trade_withjatin" /></a> </p>
+
 
 - 🌱 I’m currently learning **MySql , jupyter notebook**
 
